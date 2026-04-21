@@ -1,0 +1,3 @@
+Montgomery Computer Science Club meets every Thursday after school in Mr. Lee's Room
+
+We participate in hackathons, USACO, ACSL, and host workshops on Python and AI.
