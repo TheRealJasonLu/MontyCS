@@ -18,7 +18,7 @@ llm = Ollama(model="mistral")
 query = st.text_input("Ask a question:")
 
 if query:
-    docs = retriever.get_relevant_documents(query)
+    docs = retriever.invoke(query)
 
     context = "\n\n".join([doc.page_content for doc in docs])
 
@@ -32,7 +32,7 @@ Question:
 {query}
 """
 
-    response = llm(prompt)
+    response = llm.invoke(prompt)
 
     st.write("### Answer")
     st.write(response)
