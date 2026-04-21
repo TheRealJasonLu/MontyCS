@@ -1,3 +1,60 @@
-Montgomery Computer Science Club meets every Thursday after school in Mr. Lee's Room
+Montgomery Computer Science Club
 
-We participate in hackathons, USACO, ACSL, and host workshops on Python and AI.
+Overview:
+The Montgomery Computer Science Club is a student-run organization focused on programming, competitive computing, and artificial intelligence. We host workshops, participate in competitions, and help students develop coding skills at all levels.
+
+Board Members:
+- Steven Chen – President
+- Sowmya Venkatesh – Vice President
+- Vivan Pande – Treasurer
+- Divy Saran – Events Coordinator
+- Jason Lu – Board Member
+- Wilson Dee – Board Member
+
+Meetings:
+The club meets every Thursday after school in Room E2316.
+Supervisor: Mr. Lee
+
+Important Links:
+- Google Classroom Code: xnbloet
+- Discord Invite: https://discord.gg/7Z9qycgM
+- Club Email: montycompsci@gmail.com
+
+Activities:
+- Weekly programming workshops
+- USACO training (competitive programming)
+- ACSL competition preparation
+- Hackathons
+- AI and machine learning projects
+
+Skill Levels:
+- Beginner: Learn Python fundamentals and basic programming
+- Intermediate: Learn data structures and algorithms
+- Advanced: Competitive programming, USACO, and AI/ML projects
+
+Competitions and Events:
+- USACO contests (December through March)
+- ACSL contests throughout the year
+- School hackathons such as MontyHacks
+
+ACSL Resources:
+- Study Materials: https://www.acsl.org/get-started/study-materials
+- Team 1 Scores: https://www.scores.acsl.org/roster/396/
+- Team 2 Scores: https://www.scores.acsl.org/roster/397/
+
+FAQ:
+
+Q: How do I join the club?
+A: Join the Google Classroom using the code xnbloet and attend a meeting.
+
+Q: Do I need coding experience to join?
+A: No, beginners are welcome. We provide support for all skill levels.
+
+Q: What programming languages are used?
+A: We primarily use Python and C++.
+
+Q: How do I stay updated?
+A: Join the Discord server and Google Classroom for announcements.
+
+Q: What competitions does the club participate in?
+A: The club participates in USACO, ACSL, and hackathons.
