@@ -5,3 +5,4 @@ streamlit
 ollama
 pypdf
 tqdm
+langchain-ollama
