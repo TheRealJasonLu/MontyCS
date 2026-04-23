@@ -82,8 +82,8 @@ if query:
         context = "\n\n".join(doc.page_content for doc in docs)
 
         prompt = f"""
-Answer the question using only the context below.
-If the answer is not in the context, say you do not know.
+Answer the question using only the context below
+If the answer is not in the context, say you do not know
 
 Context:
 {context}
