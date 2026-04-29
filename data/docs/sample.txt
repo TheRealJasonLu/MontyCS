@@ -44,17 +44,22 @@ ACSL Resources:
 
 FAQ:
 
+1. 
 Q: How do I join the club?
 A: Join the Google Classroom using the code xnbloet and attend a meeting.
 
+2. 
 Q: Do I need coding experience to join?
 A: No, beginners are welcome. We provide support for all skill levels.
 
+3. 
 Q: What programming languages are used?
 A: We primarily use Python and C++.
 
+4. 
 Q: How do I stay updated?
 A: Join the Discord server and Google Classroom for announcements.
 
+5. 
 Q: What competitions does the club participate in?
 A: The club participates in USACO, ACSL, and hackathons.
